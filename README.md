@@ -47,9 +47,8 @@ Tools
 
 For this project, following Python libraries were used:
 
-    Pandas: for data analysis
-    Seaborn: for data visualization
-    Matplotlib: for data visualization
-    Numpy: for mathematical equations
-    SciPy: for mathematical equations
+Data Analysis- Pandas
+Data Visualization- Seaborn and Matplotlib
+Mathermatical Equations- Numpy and SciPy
+
 
