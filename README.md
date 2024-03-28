@@ -48,7 +48,9 @@ Tools
 For this project, following Python libraries were used:
 
 Data Analysis- Pandas
+
 Data Visualization- Seaborn and Matplotlib
+
 Mathermatical Equations- Numpy and SciPy
 
 
