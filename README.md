@@ -41,6 +41,7 @@ profiles?
 Data
 
 For this project, open source datasets from Instacart are provided. The datasets contain data related to orders, customers, products and department of Instacart.
+The data provided is fabricated by CareerFoundry for learning purpose.
 
 Tools
 
