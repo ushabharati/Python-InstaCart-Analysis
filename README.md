@@ -21,7 +21,8 @@ and sales teams want to know which departments have the highest frequency of
 product orders.
 
 ● The marketing and sales teams are particularly interested in the different types of
-customers in their system and how their ordering behaviors differ. For example:
+customers in their system and how their ordering behaviors differ.
+
 ○ What’s the distribution among users in regards to their brand loyalty (i.e., how
 often do they return to Instacart)?
 
