@@ -54,4 +54,16 @@ Data Visualization- Seaborn and Matplotlib
 
 Mathermatical Equations- Numpy and SciPy
 
+## **Project Folder details:**
+
+● Project Management containing Project Brief
+
+● Scripts folder with Jupiter notebooks containing the coding done for the analysis
+
+● Analysis folder with visualizations 
+
+● Sent to client folder which has the final report in Excel
+
+
+
 
