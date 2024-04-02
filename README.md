@@ -3,7 +3,7 @@
 As an analyst for Online Grocery Store-Instacart, I have explored Instacart's sales data through comprehensive analysis to uncover customer segmentation patterns and purchasing behaviors. 
 The analysis serves as the foundation for devising targeted marketing strategies tailored to different customer profiles, enhancing Instacart's ability to personalize offerings and maximize sales impact.
 
-Key Questions
+## **Key Questions**
 
 ● The sales team needs to know what the busiest days of the week and hours of the
 day are (i.e., the days and times with the most orders) in order to schedule ads at
@@ -38,12 +38,12 @@ Age? Income? Certain types of goods? Family status?
 ○ What differences are found in ordering habits of different customer
 profiles? 
 
-Data
+## **Data**
 
 For this project, open source datasets from Instacart are provided. The datasets contain data related to orders, customers, products and department of Instacart.
 The data provided is fabricated by CareerFoundry for learning purpose.
 
-Tools
+## **Tools**
 
 For this project, following Python libraries were used:
 
